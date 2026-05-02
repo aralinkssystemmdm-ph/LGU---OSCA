@@ -1,0 +1,8 @@
+{
+  "name": "Remix: San Juan OSCA System 5/2/26  10pm Ron",
+  "description": "A centralized LGU platform for senior citizen welfare management, registration, and service delivery.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
